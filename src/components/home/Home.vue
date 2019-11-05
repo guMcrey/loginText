@@ -5,7 +5,7 @@
     </p>
     <p>
       您好, 欢迎访问
-      <span class="content-text">ADVANCE.AI</span>!
+      <span class="content-text">XXX</span>!
     </p>
   </div>
 </template>
